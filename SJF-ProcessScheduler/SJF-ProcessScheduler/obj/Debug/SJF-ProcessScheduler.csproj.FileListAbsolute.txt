@@ -1,0 +1,6 @@
+C:\Users\Aaron\Desktop\Applied Database Systems\SJF-ProcessScheduler\SJF-ProcessScheduler\bin\Debug\SJF-ProcessScheduler.exe.config
+C:\Users\Aaron\Desktop\Applied Database Systems\SJF-ProcessScheduler\SJF-ProcessScheduler\bin\Debug\SJF-ProcessScheduler.exe
+C:\Users\Aaron\Desktop\Applied Database Systems\SJF-ProcessScheduler\SJF-ProcessScheduler\bin\Debug\SJF-ProcessScheduler.pdb
+C:\Users\Aaron\Desktop\Applied Database Systems\SJF-ProcessScheduler\SJF-ProcessScheduler\obj\Debug\SJF-ProcessScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Desktop\Applied Database Systems\SJF-ProcessScheduler\SJF-ProcessScheduler\obj\Debug\SJF-ProcessScheduler.exe
+C:\Users\Aaron\Desktop\Applied Database Systems\SJF-ProcessScheduler\SJF-ProcessScheduler\obj\Debug\SJF-ProcessScheduler.pdb
